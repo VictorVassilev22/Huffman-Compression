@@ -1,0 +1,26 @@
+﻿cl : command line warning D9002: ignoring unknown option '-lstdc++fs'
+  Decoder.cpp
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\crc32.hpp(79,22): warning C4244: 'initializing': conversion from 'std::streamsize' to 'uint32_t', possible loss of data
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\Decoder.cpp(98,20): warning C4244: 'initializing': conversion from 'uintmax_t' to 'uint32_t', possible loss of data
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\Decoder.cpp(128,20): warning C4244: 'initializing': conversion from 'std::streamoff' to 'uint32_t', possible loss of data
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\Decoder.cpp(351,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\Decoder.cpp(378,19): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\Decoder.cpp(387,17): warning C4244: 'initializing': conversion from 'std::streamoff' to 'size_t', possible loss of data
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\Decoder.cpp(594,18): warning C4244: 'initializing': conversion from 'std::streamsize' to 'size_t', possible loss of data
+  Encoder.cpp
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\crc32.hpp(79,22): warning C4244: 'initializing': conversion from 'std::streamsize' to 'uint32_t', possible loss of data
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\Encoder.cpp(297,15): warning C4244: 'initializing': conversion from 'std::streamsize' to 'size_t', possible loss of data
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\Encoder.cpp(343,32): warning C4267: 'argument': conversion from 'size_t' to 'unsigned char', possible loss of data
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\Encoder.cpp(430,20): warning C4244: 'initializing': conversion from 'uintmax_t' to 'uint32_t', possible loss of data
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\Encoder.cpp(588,26): warning C4244: '=': conversion from 'std::streamsize' to 'size_t', possible loss of data
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\Encoder.cpp(620,26): warning C4018: '<': signed/unsigned mismatch
+  bitVector.cpp
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\bitVector.cpp(78,25): warning C4018: '>=': signed/unsigned mismatch
+  interface.cpp
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\crc32.hpp(79,22): warning C4244: 'initializing': conversion from 'std::streamsize' to 'uint32_t', possible loss of data
+  Generating code
+  26 of 1153 functions ( 2.3%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    86 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  HuffmanProject.vcxproj -> C:\Users\AORUS\source\repos\HuffmanProject\Release\HuffmanProject.exe

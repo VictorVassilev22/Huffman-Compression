@@ -1,0 +1,4 @@
+﻿cl : command line warning D9002: ignoring unknown option '-lstdc++fs'
+  interface.cpp
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\crc32.hpp(79,20): warning C4244: 'initializing': conversion from 'std::streamsize' to 'size_t', possible loss of data
+  HuffmanProject.vcxproj -> C:\Users\AORUS\source\repos\HuffmanProject\Debug\HuffmanProject.exe

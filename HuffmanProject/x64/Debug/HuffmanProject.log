@@ -1,0 +1,7 @@
+﻿  Encoder.cpp
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\Encoder.cpp(21,39): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\Encoder.cpp(147,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\Encoder.cpp(318,31): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\Encoder.cpp(343,32): warning C4267: 'argument': conversion from 'size_t' to 'unsigned char', possible loss of data
+C:\Users\AORUS\source\repos\HuffmanProject\HuffmanProject\Encoder.cpp(430,20): warning C4244: 'initializing': conversion from 'uintmax_t' to 'uint32_t', possible loss of data
+  HuffmanProject.vcxproj -> C:\Users\AORUS\source\repos\HuffmanProject\x64\Debug\HuffmanProject.exe
